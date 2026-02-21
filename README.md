@@ -7,3 +7,4 @@ I am a full-stack open-source developer focused on high-performance tooling, sec
 *   🎮 **[Lutris Gamepad UI](https://github.com/andrew-ld/lutris-gamepad-ui)** – A "10-foot UI" frontend for the Lutris game launcher, designed for seamless couch gaming on Linux.
 *   🛡️ **[AutoWWWTest](https://github.com/andrew-ld/autowwwtest)** – A passive browser extension that detects web security misconfigurations and secrets leaks in the background.
 *   🪟 **[gameinput2xinput](https://github.com/andrew-ld/gameinput2xinput)** - Gameinput to xinput compatibility layer.
+*   🎲 **[archlinux-gaming-ci](https://github.com/archlinux-gaming-ci)** - An automated pacman repository providing the latest gaming-related packages for Arch Linux.
